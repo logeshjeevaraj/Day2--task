@@ -1,1 +1,6 @@
-# Day2--task
+Window Vs Document
+
+Window object : It is the top most object and outermost element of the object hierarchy.
+
+Document object : Each HTML document that gets loaded into a window becomes a document object. The document contains the contents of the page. Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page.
+
